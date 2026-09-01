@@ -20,7 +20,7 @@
 #### Araçlar ve Platformlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Araçlar ve Platformlar" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,canva,figma" alt="Araçlar ve Platformlar" />
 </p>
 
 ---
