@@ -6,8 +6,11 @@
 
 * Mobil uygulamalar ve web uygulamaları geliştirme
 * Şu anda **Flutter** ve **Dart** ile yoğun bir şekilde ilgileniyorum.
-* Fikirleri piyasaya sürülmüş ürünlere dönüştürmek
-* Türkiye merkezli
+* "Hayatını Ülkesini Güzelleştirmeye Adamış Bir Genç"
+*  Techopia ve Devroom Kurucusu.
+*  Yazar
+*  Öğrenci
+*  Konum, Türkiye
 
 ### Teknoloji Yığını
 
@@ -19,9 +22,12 @@
 
 #### Araçlar ve Platformlar
 
-#### Araçlar ve Platformlar
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma" alt="Araçlar ve Platformlar" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="Canva" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmetyusufsengul/ahmetyusufsengul/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
