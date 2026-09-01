@@ -19,12 +19,9 @@
 
 #### Araçlar ve Platformlar
 
+#### Araçlar ve Platformlar
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,canva,figma" alt="Araçlar ve Platformlar" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmetyusufsengul/ahmetyusufsengul/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma" alt="Araçlar ve Platformlar" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="Canva" />
 </p>
