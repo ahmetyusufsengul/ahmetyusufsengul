@@ -8,8 +8,7 @@
 * Şu anda **Flutter** ve **Dart** ile yoğun bir şekilde ilgileniyorum.
 * "Hayatını Ülkesini Güzelleştirmeye Adamış Bir Genç"
 *  Techopia ve Devroom Kurucusu.
-*  Yazar
-*  Öğrenci
+*  Yazar, Öğrenci
 *  Konum, Türkiye
 
 ### Teknoloji Yığını
